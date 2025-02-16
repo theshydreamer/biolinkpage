@@ -52,6 +52,10 @@ h1, p {
   margin: 5px 0;
 }
 
+p {
+  font-weight: bold;
+}
+
 .links-container {
   width: 100%;
   background: var(--link-bg);
